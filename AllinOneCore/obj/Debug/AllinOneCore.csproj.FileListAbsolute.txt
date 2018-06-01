@@ -1,1 +1,8 @@
 C:\Users\quanmtran\Desktop\MyProj\AiOCore\AllinOneCore\AllinOneCore\obj\Debug\AllinOneCore.csprojResolveAssemblyReference.cache
+F:\Svn\GitSvn\SellWeb\trunk\AllinOneCore\bin\Debug\AllinOneCore.dll.config
+F:\Svn\GitSvn\SellWeb\trunk\AllinOneCore\bin\Debug\AllinOneCore.dll
+F:\Svn\GitSvn\SellWeb\trunk\AllinOneCore\bin\Debug\AllinOneCore.pdb
+F:\Svn\GitSvn\SellWeb\trunk\AllinOneCore\obj\Debug\AllinOneCore.csprojResolveAssemblyReference.cache
+F:\Svn\GitSvn\SellWeb\trunk\AllinOneCore\obj\Debug\AllinOneCore.csproj.CoreCompileInputs.cache
+F:\Svn\GitSvn\SellWeb\trunk\AllinOneCore\obj\Debug\AllinOneCore.dll
+F:\Svn\GitSvn\SellWeb\trunk\AllinOneCore\obj\Debug\AllinOneCore.pdb
