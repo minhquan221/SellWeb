@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllinOneCore", "AllinOneCore\AllinOneCore.csproj", "{7F632524-6BF2-47BB-8955-98076BD4C97F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Data", "Lib.Data\Lib.Data.csproj", "{E7D00C08-5E03-4F77-94C3-AAD0C3FB56F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllinOneDataObject", "AllinOneDataObject\AllinOneDataObject.csproj", "{F396B9EC-7C88-4AAB-8A90-6BAAE41E4028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllinOneBusinessObject", "AllinOneBusinessObject\AllinOneBusinessObject.csproj", "{C9CCD377-F2DC-4F78-8C9F-FB08DEFBAF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateWebCore", "TemplateWebCore\TemplateWebCore.csproj", "{3A8775CC-DBC6-4DAE-AA99-4CF2E0E4321D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateWebCore.Tests", "TemplateWebCore.Tests\TemplateWebCore.Tests.csproj", "{6E494E72-6864-4F5D-B230-15E978FA5541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F632524-6BF2-47BB-8955-98076BD4C97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F632524-6BF2-47BB-8955-98076BD4C97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F632524-6BF2-47BB-8955-98076BD4C97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F632524-6BF2-47BB-8955-98076BD4C97F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D00C08-5E03-4F77-94C3-AAD0C3FB56F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D00C08-5E03-4F77-94C3-AAD0C3FB56F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D00C08-5E03-4F77-94C3-AAD0C3FB56F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D00C08-5E03-4F77-94C3-AAD0C3FB56F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F396B9EC-7C88-4AAB-8A90-6BAAE41E4028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F396B9EC-7C88-4AAB-8A90-6BAAE41E4028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F396B9EC-7C88-4AAB-8A90-6BAAE41E4028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F396B9EC-7C88-4AAB-8A90-6BAAE41E4028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CCD377-F2DC-4F78-8C9F-FB08DEFBAF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CCD377-F2DC-4F78-8C9F-FB08DEFBAF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CCD377-F2DC-4F78-8C9F-FB08DEFBAF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CCD377-F2DC-4F78-8C9F-FB08DEFBAF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8775CC-DBC6-4DAE-AA99-4CF2E0E4321D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8775CC-DBC6-4DAE-AA99-4CF2E0E4321D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8775CC-DBC6-4DAE-AA99-4CF2E0E4321D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8775CC-DBC6-4DAE-AA99-4CF2E0E4321D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E494E72-6864-4F5D-B230-15E978FA5541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E494E72-6864-4F5D-B230-15E978FA5541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E494E72-6864-4F5D-B230-15E978FA5541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E494E72-6864-4F5D-B230-15E978FA5541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {7870DD5B-3F2B-4146-829E-063D185160EE}
+	EndGlobalSection
+EndGlobal
