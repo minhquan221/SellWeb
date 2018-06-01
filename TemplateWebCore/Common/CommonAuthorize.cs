@@ -10,7 +10,9 @@ namespace TemplateWebCore.Common
     {
         protected override bool AuthorizeCore(HttpContextBase contextBase)
         {
-            return base.AuthorizeCore(contextBase);
+            if (contextBase.Session[Constants.SessionLoginName] == null)
+                return false;
+            return true;
         }
     }
 }
