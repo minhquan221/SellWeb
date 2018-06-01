@@ -7,7 +7,7 @@ using TemplateWebCore.Common;
 
 namespace TemplateWebCore.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         [CommonAuthorize]
         public ActionResult Index()

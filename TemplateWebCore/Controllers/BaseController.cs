@@ -6,9 +6,12 @@ using System.Web.Mvc;
 
 namespace TemplateWebCore.Controllers
 {
-    public class AccountController : BaseController
+    public class BaseController : Controller
     {
-        // GET: Account
+        public BaseController()
+        {
+        }
+        // GET: Base
         public ActionResult Index()
         {
             return View();
