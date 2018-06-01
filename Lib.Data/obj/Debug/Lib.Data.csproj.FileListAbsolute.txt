@@ -1,0 +1,14 @@
+C:\Users\quanmtran\Desktop\MyProj\AiOCore\AllinOneCore\Lib.Data\bin\Debug\Lib.Data.dll.config
+C:\Users\quanmtran\Desktop\MyProj\AiOCore\AllinOneCore\Lib.Data\bin\Debug\Lib.Data.dll
+C:\Users\quanmtran\Desktop\MyProj\AiOCore\AllinOneCore\Lib.Data\bin\Debug\Lib.Data.pdb
+C:\Users\quanmtran\Desktop\MyProj\AiOCore\AllinOneCore\Lib.Data\obj\Debug\Lib.Data.dll
+C:\Users\quanmtran\Desktop\MyProj\AiOCore\AllinOneCore\Lib.Data\obj\Debug\Lib.Data.pdb
+C:\Users\quanmtran\Desktop\MyProj\AiOCore\AllinOneCore\Lib.Data\obj\Debug\Lib.Data.csprojResolveAssemblyReference.cache
+F:\Svn\MyProj\AiOCore\AllinOneCore\Lib.Data\bin\Debug\Lib.Data.dll.config
+F:\Svn\MyProj\AiOCore\AllinOneCore\Lib.Data\bin\Debug\Lib.Data.dll
+F:\Svn\MyProj\AiOCore\AllinOneCore\Lib.Data\bin\Debug\Lib.Data.pdb
+F:\Svn\MyProj\AiOCore\AllinOneCore\Lib.Data\bin\Debug\Oracle.DataAccess.dll
+F:\Svn\MyProj\AiOCore\AllinOneCore\Lib.Data\obj\Debug\Lib.Data.csprojResolveAssemblyReference.cache
+F:\Svn\MyProj\AiOCore\AllinOneCore\Lib.Data\obj\Debug\Lib.Data.csproj.CoreCompileInputs.cache
+F:\Svn\MyProj\AiOCore\AllinOneCore\Lib.Data\obj\Debug\Lib.Data.dll
+F:\Svn\MyProj\AiOCore\AllinOneCore\Lib.Data\obj\Debug\Lib.Data.pdb
